@@ -9,3 +9,4 @@ In the story Goldilocks and the Three Bears, each bear had a bowl of porridge to
 
 메모리: 32412 KB 
 시간 : 36 ms
+분류 : 구현
